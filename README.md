@@ -1,4 +1,5 @@
 # GoodReadBooksReviews
+Project Members: Kaydn Brady and Michael Miner
 
 In this repository we have main.py where we perform the bulk of our neural network building and preprocessing. In the file FilterReview.py we provide the support functions needed to perform filtering on the input dataset such as removeing unwanted character, words, and symbols.
 
